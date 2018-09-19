@@ -1,7 +1,7 @@
 # Build settings
 permalink: /blog/:year/:title/
 markdown: kramdown
-highlighter: pygments
+highlighter: rogue
 plugins: [jekyll-paginate]
 
 paginate: 3
@@ -15,30 +15,35 @@ sass:
   style: compressed # expanded
 
 # SEO settings
-title: end2end
+title: Pía's website
 description: "A free Jekyll theme for download"
 keywords: "Jekyll, theme, free, download, SEO, blog, web"
-url: http://nandomoreira.me
-baseurl: "/end2end"
+url: http://piacortes.github.io
+baseurl: ""
 
 google_analytics: UA-52446115-1
-repo: http://github.com/nandomoreirame/end2end
+repo: http://github.com/piacortes/piacortes.github.io
 disqus_shortname: "nandothemes"
 disqus_site_shortname: "nandothemes"
 
 # Author settings
 author:
-  name: Fernando Moreira
-  job: Frontend Engineer
-  bio: "Enthusiast performance, responsive design and usability, always looking for the best project and good coffee."
+  name: Pía Cortés-Zuleta
+  job: astronomer
+  bio: M.Sc in Astronomy student from [Universidad de Chile](www.das.uchile.cl).
+      <br>I'm interested in **Exoplanets** and **Data Science** applied to astronomy. Currently working on Transit Timing Variations (TTV) analysis in hot Jupiters within the [Trasit Monitoring in the South](10.1051/epjconf/20134703003) (TraMoS) project.
+      In my free time I like cooking, reading, working on outreach projects specially for young girls and talking with my cat.
   thumb: /images/author.jpg
-  email: nandomoreira.me@gmail.com
-  url: https://nandomoreira.me/
-  github: https://github.com/nandomoreirame
-  twitter: https://twitter.com/umdevux
+  email: pia.cortes@ug.uchile.cl
+  mail4: pia.cortes@ug.uchile.cl
+  cv: data/cv_PCortes_en2018.pdf
+  url: https://piacortes.github.io
+  github: https://github.com/piacortes
+  scholar: https://scholar.google.cl/citations?user=3zfydq0AAAAJ&hl=es
+  twitter: https://twitter.com/piacortes
   facebook: https://facebook.com/umdevux
-  linkedin: https://linkedin.com/in/nandomoreirame
-
+  #linkedin: https://linkedin.com/in/nandomoreirame
+  instagram: https://www.instagram.com/pia.cortes
 # navbar pages
 navbar:
   - slug: about
