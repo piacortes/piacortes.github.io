@@ -46,11 +46,11 @@ author:
   instagram: https://www.instagram.com/pia.cortes
 # navbar pages
 navbar:
-  - slug: about
-    title: About
-  - slug: icons
-    title: Icons
-  - slug: blog
-    title: Blog
+#  - slug: about
+#    title: About
+#  - slug: icons
+#    title: Icons
+#  - slug: blog
+#    title: Blog
 
 exclude: ["config.rb", "src", "Gemfile", "Gemfile.lock", "package.json","README.md", "Rakefile"]
