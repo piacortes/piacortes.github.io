@@ -12,11 +12,11 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
+        - name: About
+          url: about/
           weight: 5 
-        - name: Papers
-          url: papers/
+        - name: Research
+          url: research/
           weight: 2
         - name: Courses
           url: courses/
@@ -24,9 +24,7 @@ menu:
         - name: Data
           url: data/
           weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
+
 
 params:
     description: "This website hosts Pia Cortes Zuleta's information"
@@ -54,44 +52,28 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Dr Pia Cortes-Zuleta
-          subtitle: "I am Postdoctoral Research Fellow at the University of St Andrews, UK. My research focuses on the detection and characterisation of extrasolar planets. I am particularly interested in studying the effects of stellar activity on spectroscopic data." 
+          title: Dr Pia Cortes Zuleta, an astronomer
+          subtitle: "I am Postdoctoral Research Fellow at the University of St Andrews, UK. My research focuses on the detection and characterisation of extrasolar planets. I am particularly interested in studying the effects of stellar activity on the detection of low-mass planets with the radial velocity technique." 
           imageUrl: "pia.jpg"
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Papers
-              url: https://scholar.google.com/citations?user=3zfydq0AAAAJ&hl=en
             - name: About
-              url: data/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+              url: about/
+            - name: Research
+              url: research/
+            - name: CV
+              url: cvPCortes.pdf
 
     socialIcons:
-        - name: CV
-          url: cvPCortes.pdf
         - name: Email
           url: pcz1@st-andrews.ac.uk
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: https://scholar.google.com/citations?user=3zfydq0AAAAJ&hl=en
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
-        - name: Twitter
-          url: https://x.com/pmichaillat
+          url: https://github.com/piacortes/
         - name: Bluesky
-          url: https://bsky.app/profile/pmichaillat.bsky.social
+          url: https://bsky.app/profile/piacortes.bsky.social
 
     assets:
         disableScrollBarStyle: true
@@ -99,7 +81,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Pia Cortes Zuleta"
       icon: favicon.ico
       iconHeight: 18
 
