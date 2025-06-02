@@ -42,7 +42,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["papers","data"]
+    MainSections: ["about","research"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -50,9 +50,18 @@ params:
     UseHugoToc: true
     comments: false
     math: true
+    socialIcons:
+        - name: Email
+          url: pcz1@st-andrews.ac.uk
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=3zfydq0AAAAJ&hl=en
+        - name: GitHub
+          url: https://github.com/piacortes/
+        - name: Bluesky
+          url: https://bsky.app/profile/piacortes.bsky.social
     profileMode:
           enabled: true
-          title: Dr Pia Cortes Zuleta, an astronomer
+          title: Dr Pia Cortes Zuleta, astronomer
           subtitle: "I am Postdoctoral Research Fellow in Astrophysics at the University of St Andrews, UK. <br> My research focuses on the detection and characterisation of **extrasolar planets**. <br> I am particularly interested in studying the effects of stellar activity on the detection of low-mass planets with the radial velocity technique. <br>" 
           imageUrl: "pia.jpg"
           imageWidth: 160
@@ -65,15 +74,7 @@ params:
             - name: CV
               url: cvPCortes.pdf
 
-    socialIcons:
-        - name: Email
-          url: pcz1@st-andrews.ac.uk
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=3zfydq0AAAAJ&hl=en
-        - name: GitHub
-          url: https://github.com/piacortes/
-        - name: Bluesky
-          url: https://bsky.app/profile/piacortes.bsky.social
+    
 
     assets:
         disableScrollBarStyle: true
