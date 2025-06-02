@@ -55,17 +55,15 @@ params:
     profileMode:
           enabled: true
           title: Dr Pia Cortes-Zuleta
-          subtitle: "I am I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
-          imageUrl: "picture.jpeg"
+          subtitle: "I am Postdoctoral Research Fellow at the University of St Andrews, UK. My research focuses on the detection and characterisation of extrasolar planets. I am particularly interested in studying the effects of stellar activity on spectroscopic data." 
+          imageUrl: "pia.jpg"
           imageWidth: 160
           imageHeight: 160
           buttons:
             - name: Papers
-              url: papers/
-            - name: Data
+              url: https://scholar.google.com/citations?user=3zfydq0AAAAJ&hl=en
+            - name: About
               url: data/
-            - name: Books
-              url: books/
             - name: Courses
               url: courses/
             - name: Tags
@@ -77,11 +75,9 @@ params:
 
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: cvPCortes.pdf
         - name: Email
-          url: mailto:igelfeld@regensburg.edu
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
+          url: pcz1@st-andrews.ac.uk
         - name: Location
           url: location/
         - name: Office Hours
