@@ -54,7 +54,7 @@ params:
     math: true
     profileMode:
           enabled: true
-        title: PAGE UNDER CONSTRUCTION
+        title: "PAGE UNDER CONSTRUCTION"
           subtitle: ""
           imageUrl: "picture.jpeg"
           imageWidth: 160
