@@ -73,8 +73,7 @@ params:
               url: research/
             - name: CV
               url: cvPCortesZuleta.pdf
-            - name: Papers
-              url: papers/
+
     
 
     assets:
