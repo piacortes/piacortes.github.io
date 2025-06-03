@@ -52,7 +52,7 @@ params:
     math: true
     socialIcons:
         - name: Email
-          url: <a href="mailto:pcz1@st-andrews.ac.uk">
+          url: "mailto:pcz1@st-andrews.ac.uk"
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=3zfydq0AAAAJ&hl=en
         - name: GitHub
