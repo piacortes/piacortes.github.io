@@ -27,11 +27,11 @@ menu:
 
 
 params:
-    description: "This website hosts Pia Cortes Zuleta's information"
+    description: "This website hosts Dr Pia Cortes Zuleta's information, chilean astrophysicist and postdoctoral research fellow at the University of St Andrews, UK"
     author: Pia Cortes Zuleta
     googleAnalyticsID: "G-SVZD5SZB0C"
     DateFormat: "January 2006"
-    defaultTheme: light
+    defaultTheme: dark
     hideFooter: false
     disableThemeToggle: true
     ShowShareButtons: false
@@ -79,7 +79,7 @@ params:
     assets:
         disableScrollBarStyle: true
     cover:
-        hiddenInList: false
+        hiddenInList: true
         hiddenInSingle: true
     label:
       text: "Pia Cortes Zuleta"
