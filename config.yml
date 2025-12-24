@@ -68,9 +68,9 @@ params:
           imageHeight: 160
           buttons:
             - name: About
-              url: about/
+              url: about
             - name: Research
-              url: research/
+              url: research
             - name: CV
               url: cvPCortesZuleta.pdf
 
