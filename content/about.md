@@ -12,4 +12,4 @@ During my M.Sc, I worked looking for Transit Timing Variations (TTV) in hot Jupi
 
 In 2018, with a marvelous group of female colleagues/friends, we founded the "Cazadoras de Estrellas" project. This project aims to travel around Chile making astronomy workshops for high school girls interested in astronomy and sciences. We have been funded through two ESO grants and in 2019, we were shortlisted in the Nature Innovating Science award.
 
-Doing outreach especially for underrepresented groups in science is something that I enjoyed very much. I spend my free time exploring the beautiful Scotland, reading novels, cooking new recipes, trying not to kill my plants, and tasting scottish whisky.
+Doing outreach especially for underrepresented groups in science is something that I enjoy very much. I spend my free time exploring the beautiful Scotland, reading novels, cooking new recipes, trying not to kill my plants, and tasting scottish whisky.
