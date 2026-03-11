@@ -68,7 +68,7 @@ params:
           imageHeight: 160
           buttons:
             - name: About
-              url: about
+              url: About
             - name: Research
               url: research
             - name: CV
