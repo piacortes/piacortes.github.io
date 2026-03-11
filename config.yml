@@ -62,7 +62,7 @@ params:
     profileMode:
           enabled: true
           title: Dr Pia Cortes Zuleta, astronomer
-          subtitle: "I am Postdoctoral Research Fellow in Astrophysics at the University of St Andrews, UK. <br> My research focuses on the detection and characterisation of **extrasolar planets**. <br> I am particularly interested in studying the effects of stellar activity on the detection of low-mass planets with the radial velocity technique. <br>" 
+          subtitle: "I am Postdoctoral Research Fellow in Astrophysics at the University of St Andrews, UK. <br> My research focuses on the detection and characterisation of **extrasolar planets**. <br> I am particularly interested in studying the effects of stellar activity on the detection of low-mass planets with the radial velocity technique. <br> I am the winner of the L'Oréal-UNESCO For Women in Science UK & Ireland Young Talent award 2025." 
           imageUrl: "pia.jpg"
           imageWidth: 160
           imageHeight: 160
