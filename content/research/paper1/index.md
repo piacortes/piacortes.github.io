@@ -1,5 +1,5 @@
 ---
-title: "Unusual Uses For Olive Oil" 
+title: "Gl 725A b: A potential super-Earth detected with SOPHIE and SPIRou in an M dwarf binary system at 3.5 pc" 
 date: 2013-01-15
 tags: ["philology","oleic science","history of oil","Mediterranean world"]
 author: ["Detlev Amadeus Unterholzer","Moritz-Maria von Igelfeld"]
